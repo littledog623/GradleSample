@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.littledog623.gradlesample.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.littledog623.gradlesample.MyBundle
 
 class MyApplicationService {
 
